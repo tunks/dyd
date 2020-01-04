@@ -1,0 +1,1 @@
+Dynamic Data-drive framework to create customized lightweight application on the fly
